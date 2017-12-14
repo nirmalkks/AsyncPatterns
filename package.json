@@ -1,0 +1,23 @@
+{
+  "name": "asyncpatterns",
+  "version": "1.0.0",
+  "description": "Difference between callbacks, promises and async-await",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirmalkks/AsyncPatterns.git"
+  },
+  "author": "Nirmal Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nirmalkks/AsyncPatterns/issues"
+  },
+  "homepage": "https://github.com/nirmalkks/AsyncPatterns#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-es2017": "^6.24.1"
+  }
+}
